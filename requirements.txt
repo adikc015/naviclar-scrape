@@ -8,5 +8,5 @@ urllib3>=2.0.0
 
 # Optional (Harvard script falls back if unavailable)
 keybert>=0.8.4
-sentence-transformers>=2.7.0
-torch>=2.2.0
+#sentence-transformers>=2.7.0
+#torch>=2.2.0
